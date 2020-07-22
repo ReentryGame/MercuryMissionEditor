@@ -45,7 +45,7 @@
                     <TextBox Name="tbMinBeforeLaunch" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="86,302,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="125" TextChanged="tbMinBeforeLaunch_TextChanged"/>
                     <CheckBox Name="checkStartInOrbit" Content="Load State" Grid.Column="3" HorizontalAlignment="Left" Margin="86,356,0,0" VerticalAlignment="Top" Click="checkStartInOrbit_Checked"/>
                     <Label Content="Load State File" HorizontalAlignment="Left" Margin="77,369,0,0" VerticalAlignment="Top" Width="158" Grid.Column="3"/>
-                    <TextBox x:Name="tbLoadStateFile" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="86,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="125" TextChanged="tbLoadStateFile_TextChanged"/>
+                    <TextBox x:Name="tbLoadStateFile" Grid.Column="3" HorizontalAlignment="Left" Height="23" Margin="86,394,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="224" TextChanged="tbLoadStateFile_TextChanged"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Briefing">
